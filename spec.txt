@@ -1,1 +1,6 @@
-thank you for shopping!
+Welcome to ShopEasy.
+Cart totals are shown in cents.
+Discounts apply before tax.
+Shipping cost is  flat.
+Promo Codes are case-senstive.
+Thank you for shopping!
