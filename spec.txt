@@ -1,5 +1,5 @@
 Welcome to ShopEasy.
-Cart totals are shown in dollars (rounded.).
+Cart Totals are shown in cents and displayed as $X.XX.
 Discounts apply before tax.
 Shipping cost is  flat.
 Promo Codes are case-senstive.
